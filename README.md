@@ -1,2 +1,2 @@
-# raspberrypi3-Video
+# raspberrypi3-Video control
 control video from gpio inputs
